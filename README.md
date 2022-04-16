@@ -1,9 +1,9 @@
 # **Exploring the ability of artificial intelligence to predict football results and rankings**
 
-### Project Report for MSc in Data Science by Christos Frantzis
+### Dissertation Project for MSc in Data Science by Christos Frantzis
 
 
-The code is uploaded as five Jupyter Notebooks sorted by name.
+The code is uploaded as five Jupyter Notebooks ordered numerically.
 
 
 For the purpose of recreating or running the project on your own computer, the filepaths for loading the required dataset, saving the final dataset and saving the plotted graphs need to be changed accordingly and the notebooks order needs to be respected. Filepaths exist in all notebooks except the *1. Web_Scraping.ipynb*.
